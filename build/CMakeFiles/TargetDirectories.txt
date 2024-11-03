@@ -1,0 +1,3 @@
+/home/ubuntu/TCPServer/build/CMakeFiles/mymuduo.dir
+/home/ubuntu/TCPServer/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/TCPServer/build/CMakeFiles/rebuild_cache.dir
