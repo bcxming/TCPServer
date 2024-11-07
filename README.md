@@ -1,6 +1,6 @@
 # C++11 TCP网络库
 
-![[image-20241107095151260](https://github.com/bcxming/TCPServer/blob/master/README.assets/image-20241107095014805.png)]
+![image-20241107095151260](https://github.com/bcxming/TCPServer/raw/master/README.assets/image-20241107095014805.png)
 
 ## 环境介绍
 
